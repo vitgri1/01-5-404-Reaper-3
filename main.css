@@ -1,0 +1,25 @@
+body{
+    background-color: #8b7e9e;
+}
+main{
+    background-color: #7A5CA8;
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    margin-top: 150px;
+    color: white;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 650%;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    display: inline-block;
+}
+p{
+    margin: 0;
+}
+img{
+    float: right;
+    margin-top: 55px;
+}
