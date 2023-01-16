@@ -15,7 +15,8 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://vitgri1.github.io/01-5-404-Reaper-3/
 
-Design: [Reaper](https://miro.medium.com/max/1100/1*J57dkvCF6KjNF-3dHv6p0w.webp)
+Design: [Reaper](https://miro.medium.com/max/1100/1*J57dkvCF6KjNF-3dHv6p0w.webp), [Spy](https://miro.medium.com/max/1100/1*AHE0f4e2bpUqA5FO9U6YEA.webp), [Cop](https://cdn.dribbble.com/users/108671/screenshots/1769524/media/57f06da173269737fba52c7d8db212cf.jpg),
+[Engineer](https://cdn.dribbble.com/users/108671/screenshots/1774026/media/216d3dfea163ee2a61bb590304982736.jpg), [Robot](https://cdn.dribbble.com/users/108671/screenshots/1777469/media/b793553551877f6c8b2d1f3e5692089e.jpg)
 
 ## 🎯 Project features/goals
 
