@@ -120,14 +120,21 @@ body{
 
 .spy .alt {
     animation-name: leaving;
-    animation-duration: 3s;
+    animation-duration: 4s;
     animation-iteration-count: infinite;
 }
 
 @keyframes leaving {
-    50% {
+    40% {
         transform: translateX(150%);
+        opacity: 100;
     }
+
+    60% {
+        transform: translateX(150%);
+        opacity: 0;
+    }
+
 }
 
 /* COP */
@@ -163,6 +170,7 @@ body{
     animation-name: tool-spin;
     animation-duration: 3s;
     animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
 
 @keyframes tool-spin {
@@ -192,6 +200,7 @@ body{
     animation-name: robo-head;
     animation-duration: 2s;
     animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
 
 .robot .alt:nth-of-type(3) {
